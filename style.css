@@ -1,0 +1,11 @@
+.content{
+    width: 800px;
+    height: 500px;
+    background-color: blue;
+    color: whitesmoke;
+    margin: 200px;
+    padding-top: 30%;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+}
